@@ -1,0 +1,7 @@
+{
+  "name": "EMINTEC - Soluciones Tecnológicas y Papelería",
+  "description": "Sitio web profesional de EMINTEC que ofrece servicios informáticos avanzados y servicios de papelería integral, con pedidos directos vía WhatsApp y preparado para automatización.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
